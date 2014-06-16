@@ -15,3 +15,7 @@ luoo
             -p[<filepath>]        : The filepath where to save music
   
   -----------------------------------------------------------
+  
+最终实现效果如下图：
+
+![image](http:///cubernet.github.io/assets/images/2014-06-16-luo-2.png)

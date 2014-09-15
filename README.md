@@ -18,4 +18,4 @@ luoo
   
 最终实现效果如下图：
 
-![image](http:///cubernet.github.io/assets/images/2014-06-16-luo-2.png)
+![image](https://github.com/Cubernet/cubernet.github.com/blob/master/assets/images/2014-06-16-luo-2.png)
